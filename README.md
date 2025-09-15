@@ -129,6 +129,6 @@ foundations and hands-on labs.
 
 -   Nielsen, M. A., & Chuang, I. L. *Quantum Computation and Quantum
     Information*.\
--   Preskill, J. *Lecture Notes on Quantum Computation*.\
+-   Preskill, J. *Lecture Notes on Quantum Computation*.\ (https://www.preskill.caltech.edu/ph229/)
 -   Qiskit Textbook: [Learn Quantum Computation Using
     Qiskit](https://qiskit.org/textbook/).
