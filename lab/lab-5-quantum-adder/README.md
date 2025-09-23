@@ -7,7 +7,7 @@ By the end of this lab, students will be able to:
 - Implement simple **quantum adder circuits** using Qiskit.  
 - Explore **ripple-carry adders** and controlled operations for addition.  
 - Simulate small quantum adders and verify correctness.  
-- Connect quantum addition to larger algorithms (e.g., Shor’s factoring algorithm).  
+- Connect quantum addition to larger algorithms such as modular arithmetic circuits.  
 
 ---
 
@@ -23,7 +23,7 @@ Quantum adders use **reversible logic** — operations must be unitary.
 
 ### 2.3 Types of Quantum Adders
 1. **Quantum Ripple-Carry Adder (QRCA):** Quantum equivalent of the classical ripple-carry adder.  
-2. **Quantum Fourier Transform (QFT)-based Adder:** Uses QFT to perform addition in the Fourier basis (efficient for large numbers).  
+2. **Other optimized adders:** Various designs exist but ripple-carry is the most basic.  
 
 In this lab, we focus on **basic ripple-carry adders**.  
 
@@ -98,21 +98,21 @@ plot_histogram(counts)
 
 ## 4. Exercises
 
-1. **Half Adder Check:** Build and simulate the half adder. Verify sum/carry truth table matches classical case.  
-2. **Full Adder Circuit:** Implement a 1-bit full adder with carry-in. Test all input combinations.  
+1. **Half Adder Check:** Build and simulate the half adder. Verify sum/carry truth table matches the classical case.  
+2. **Full Adder Circuit:** Implement a 1-bit full adder with carry-in. Test all possible input combinations.  
 3. **2-Bit Ripple-Carry Adder:** Extend to 2 bits. Show measurement results for inputs (01 + 11), (10 + 11).  
-4. **QFT Adder Exploration (Optional):** Research and implement a 2-qubit QFT adder in Qiskit.  
-5. **Resource Counting:** Compare the number of gates in ripple-carry vs QFT adder. Which is more efficient for large n?  
+4. **3-Bit Ripple-Carry Adder:** Build and test a 3-bit ripple-carry adder. Verify correctness by comparing classical and quantum results.  
+5. **Resource Counting:** Count the number of CNOT and Toffoli gates needed for a 2-bit and 3-bit ripple-carry adder. Comment on scalability.  
 
 ---
 
 ## 5. Concept Questions
 
-1. Why must quantum adders use reversible logic?  
-2. What roles do CNOT and Toffoli gates play in quantum adders?  
-3. Why is the ripple-carry adder inefficient for large numbers?  
-4. How can the QFT-based adder improve efficiency?  
-5. In which quantum algorithm is a QFT adder especially useful?  
+1. Why must quantum adders use **reversible logic** instead of standard classical logic?  
+2. What roles do **CNOT** and **Toffoli** gates play in building quantum adders?  
+3. How does the **carry operation** propagate in a ripple-carry adder?  
+4. Why does the size of a ripple-carry adder grow quickly as the number of bits increases?  
+5. How could more efficient designs (beyond ripple-carry) improve quantum arithmetic?  
 
 ---
 
@@ -123,4 +123,3 @@ plot_histogram(counts)
 - Nielsen, M. A. & Chuang, I. L., *Quantum Computation and Quantum Information*, Cambridge University Press.  
 
 ---
-
