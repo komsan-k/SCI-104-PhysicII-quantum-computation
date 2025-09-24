@@ -8,7 +8,7 @@ This document provides a structured comparison of Labs 1 through 10 in terms of 
 
 | **Lab** | **Purpose** | **Approach** | **Example(s)** | **Focus** | **Outcome** |
 |---------|-------------|--------------|----------------|-----------|-------------|
-| **Lab 1: Qubit, Dirac Notation, and Bloch Sphere** | Introduce the fundamental representation of quantum information | Use Dirac notation, state vectors, and Bloch sphere visualization in Qiskit | |0⟩, $|1⟩$, |+⟩; Bloch sphere plots | Understanding qubit states, superposition, and geometric representation | Students can represent qubits in Dirac notation, calculate probabilities, and visualize them on the Bloch sphere|
+| **Lab 1: Qubit, Dirac Notation, and Bloch Sphere** | Introduce the fundamental representation of quantum information | Use Dirac notation, state vectors, and Bloch sphere visualization in Qiskit | |0⟩, \|1⟩, |+⟩; Bloch sphere plots | Understanding qubit states, superposition, and geometric representation | Students can represent qubits in Dirac notation, calculate probabilities, and visualize them on the Bloch sphere|
 | **Lab 2: Quantum Gates** | Show basic quantum operations | Apply single-/multi-qubit gates | X, H, Z, CNOT | Gate-level transformations | Students can simulate and interpret gate effects |
 | **Lab 3: Quantum Registers** | Explain multi-qubit storage | Define/register multiple qubits | 2-qubit register in Qiskit | Composition of qubits | Students understand registers and entanglement |
 | **Lab 4: Quantum Circuits** | Combine qubits & gates into circuits | Build sequential circuits | Superposition + entanglement circuit | Circuit construction | Students design and simulate simple circuits |
