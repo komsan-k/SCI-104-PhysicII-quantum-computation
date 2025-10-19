@@ -1,6 +1,7 @@
 # ⚛️ Quantum Computation Course Evaluation Overview
 
-This document outlines the **grading structure** and **evaluation components** for the *Quantum Computation and Simulation* course, combining hands-on lab experience with foundational online learning through Coursera.
+This document presents the **evaluation framework** for the course *Quantum Computation and Simulation*, designed to develop both **practical programming proficiency** and **theoretical understanding** of quantum systems.  
+The course integrates **laboratory-based learning using Qiskit in Google Colab** with a **structured online module via Coursera** to ensure comprehensive exposure to the principles and applications of quantum computing.
 
 ---
 
@@ -8,8 +9,8 @@ This document outlines the **grading structure** and **evaluation components** f
 
 | Component | Weight | Description |
 |------------|---------|-------------|
-| **Quantum Computation Labs (6 Labs)** | **60%** | Practical exercises conducted in Google Colab using Qiskit and other quantum frameworks. Each lab emphasizes coding, visualization, and theoretical explanation. |
-| **Coursera Module Completion** | **40%** | Successful completion of the Coursera course **“Exploring Quantum Computation with Qiskit”**, including quizzes and assignments. |
+| **Quantum Computation Labs (6 Labs)** | **60%** | Hands-on experiments conducted in Google Colab using Qiskit and related frameworks. Each lab emphasizes circuit design, quantum logic analysis, and simulation verification. |
+| **Coursera Module Completion** | **40%** | Completion of the Coursera course **“Exploring Quantum Computation with Qiskit”**, including quizzes, assignments, and practical exercises. |
 
 **Total Course Grade = 60% (Labs) + 40% (Coursera) = 100%**
 
@@ -17,43 +18,43 @@ This document outlines the **grading structure** and **evaluation components** f
 
 ## ⚙️ Quantum Computation Labs — 60%
 
-These six labs are designed to reinforce conceptual understanding through hands-on practice in **quantum circuit simulation**, **Qiskit programming**, and **theoretical application**.
+The lab series is designed to translate quantum theory into practical computation through guided coding activities.  
+Students will implement, simulate, and analyze quantum algorithms while maintaining detailed documentation and results.
 
-### 🔹 Key Learning Outcomes
-- Construct and simulate quantum circuits using Qiskit.
-- Interpret Bloch sphere representations and probability distributions.
-- Analyze algorithms such as Quantum Adder and Quantum Fourier Transform.
-- Document findings and code in well-structured Google Colab notebooks.
+### 🔹 Core Learning Objectives
+- Construct and simulate quantum circuits using **IBM Qiskit**.  
+- Interpret Bloch Sphere representations, probability distributions, and state vectors.  
+- Explore fundamental quantum algorithms such as **Quantum Adders**, **Quantum Fourier Transform (QFT)**, and **Quantum Teleportation**.  
+- Present experimental findings through clear code annotations, Markdown explanations, and plots in Google Colab.
 
-### 🧾 Grading per Lab
-Each lab carries **10% of the total course grade**, broken down as:
-- **3%** — Lab Report (Colab Notebook)
-- **3%** — Live Checkpoint / Demonstration
-- **4%** — Quiz on Theory and Circuit Concepts
+### 🧾 Lab Evaluation Criteria
+Each lab carries **10% of the total course grade**, comprising:
+- **3%** — Lab Report *(Colab Notebook: documentation and analysis)*  
+- **3%** — Checkpoint *(In-lab verification and circuit execution)*  
+- **4%** — Quiz *(Theoretical and conceptual understanding)*
 
-Refer to the **[Quantum Lab Grading Criteria](./Quantum_Lab_Grading_Criteria_README.md)** for detailed assessment guidelines.
+See the full evaluation breakdown in the companion file:  
+👉 **[Quantum Lab Grading Criteria](./Quantum_Lab_Grading_Criteria_README.md)**
 
 ---
 
-## 🎓 Coursera Component — 40%
+## 🎓 Coursera Module — 40%
 
-Students are required to complete the following Coursera course:
-
-**Course Title:**  
+### **Course Title:**  
 [Exploring Quantum Computation with Qiskit](https://www.coursera.org/videos/packt-quantum-computing-with-qiskit-and-advanced-algorithms-wils7/jmvR1?query=Quantum%20computation&topic=Computer%20Science&sortBy=BEST_MATCH&source=search)
 
-### 📘 Course Overview
-This course introduces the fundamentals of quantum computation through:
-- Theoretical background on qubits and quantum mechanics.
-- Hands-on circuit construction using **IBM Qiskit**.
-- Implementation of algorithms such as **Quantum Teleportation**, **Grover’s Search**, and **QFT**.
-- Advanced topics including **error correction** and **quantum algorithm design**.
+### 📘 Overview
+This Coursera course provides a structured theoretical foundation for quantum computation, covering:
+- Quantum bits, superposition, and entanglement.  
+- Implementation of quantum circuits using Qiskit.  
+- Core algorithms including **Quantum Teleportation**, **Grover’s Search**, and **Quantum Fourier Transform**.  
+- Introduction to **quantum error correction** and **algorithm design**.
 
-### ✅ Completion Requirement
-To earn full credit (40%), students must:
-- Complete all graded modules, assignments, and quizzes.
-- Obtain the official **Coursera completion certificate**.
-- Submit proof of completion before the end of the semester.
+### ✅ Completion Requirements
+To earn full credit (**40%** of the total grade), students must:
+1. Complete all graded Coursera modules, assignments, and quizzes.  
+2. Obtain the official **Coursera Certificate of Completion**.  
+3. Submit proof of completion before the end of the academic term.
 
 ---
 
@@ -61,10 +62,13 @@ To earn full credit (40%), students must:
 
 | Component | Weight | Description |
 |------------|---------|-------------|
-| **Labs (x6)** | 60% | Practical application and quantum circuit simulation via Google Colab. |
-| **Coursera Coursework** | 40% | Structured theoretical foundation and certification via Coursera. |
+| **Quantum Computation Labs (6 Labs)** | 60% | Applied learning through simulation and experimentation. |
+| **Coursera Coursework** | 40% | Structured theoretical learning and verified certification. |
 
-This hybrid approach ensures that students gain both **practical quantum programming skills** and a **solid theoretical foundation**, bridging academic and industry-ready knowledge.
+This dual-assessment structure ensures students develop:
+- **Practical proficiency** in quantum programming and simulation.  
+- **Strong theoretical foundations** in the mathematics and logic of quantum computation.  
+- **Portfolio-ready documentation** demonstrating applied quantum literacy.
 
 ---
 
