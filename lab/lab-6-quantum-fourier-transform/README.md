@@ -75,7 +75,7 @@ for i in range(4):
     state = Statevector.from_instruction(qc_test)
     print(f"Input |{i:02b}>, Output state = {state}")
 ```
-
+<!---
 ### Task 5 — Inverse QFT
 ```python
 qft_circ = qft(3)
@@ -90,7 +90,7 @@ inv_qft_circ.draw('mpl')
 - Apply inverse QFT.  
 
 ---
-
+--->
 ## 4. Exercises
 
 1. **Manual QFT(3):** Write the 3-qubit QFT circuit by hand using H and controlled-phase gates. Compare with the function output.  
