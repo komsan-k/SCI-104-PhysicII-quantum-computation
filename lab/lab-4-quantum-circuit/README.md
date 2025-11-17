@@ -92,6 +92,9 @@ qc2.draw('mpl')
 ---
 
 ## 4. Exercises
+1. **Three-Qubit Circuit**: Build a GHZ circuit (|000⟩ → (|000⟩ + |111⟩)/√2).  
+2. **Random Circuit**: Generate a 3-qubit circuit with H, X, Z, and CX randomly applied. Explain results.  
+
 <!---
 1. **Three-Qubit Circuit**: Build a GHZ circuit (|000⟩ → (|000⟩ + |111⟩)/√2).  
 2. **Random Circuit**: Generate a 3-qubit circuit with H, X, Z, and CX randomly applied. Explain results.  
