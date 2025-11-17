@@ -96,12 +96,13 @@ inv_qft_circ.draw('mpl')
 --->
 ## 4. Exercises
 
-1. **Manual QFT(3):** Write the 3-qubit QFT circuit by hand using H and controlled-phase gates. Compare with the function output.  
-2. **Inverse Check:** Apply QFT followed by its inverse. Verify the state returns to input.  
-3. **QFT Addition:** Implement a 2-qubit QFT adder to add +1 to any input. Verify outputs.  
-4. **Scaling:** Try QFT on 4 qubits. How many controlled-phase gates are required?  
-5. **Efficiency Comparison:** Compare the circuit depth of a 3-qubit ripple-carry adder vs a 3-qubit QFT adder.  
-
+1. **Manual QFT(3):** Write the 3-qubit QFT circuit by hand using H and controlled-phase gates. Compare with the function output.
+<!---
+3. **Inverse Check:** Apply QFT followed by its inverse. Verify the state returns to input.  
+4. **QFT Addition:** Implement a 2-qubit QFT adder to add +1 to any input. Verify outputs.  
+5. **Scaling:** Try QFT on 4 qubits. How many controlled-phase gates are required?  
+6. **Efficiency Comparison:** Compare the circuit depth of a 3-qubit ripple-carry adder vs a 3-qubit QFT adder.  
+--->
 ---
 
 ## 5. Concept Questions
