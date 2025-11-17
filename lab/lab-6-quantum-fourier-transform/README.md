@@ -74,6 +74,9 @@ for i in range(4):
     qc_test.append(qft(2), [0,1])
     state = Statevector.from_instruction(qc_test)
     print(f"Input |{i:02b}>, Output state = {state}")
+
+print(f"Input |{i:02b}>, Output state = {state}")
+plot_bloch_multivector(state)
 ```
 <!---
 ### Task 5 — Inverse QFT
