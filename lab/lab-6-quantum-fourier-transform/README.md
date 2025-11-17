@@ -16,12 +16,12 @@ By the end of this lab, students will be able to:
 ### 2.1 Classical Fourier Transform
 The **Discrete Fourier Transform (DFT)** maps a vector of amplitudes (x₀, x₁, …, xₙ₋₁) to frequency space:
 
-yₖ = (1/√N) Σⱼ xⱼ e^(2πi jk / N)
+$$yₖ = (1/√N) Σⱼ xⱼ e^(2πi jk / N)$$
 
 ### 2.2 Quantum Fourier Transform
 The QFT is the quantum analogue of the DFT.  
 - It acts on computational basis states:  
-|j⟩ → (1/√N) Σₖ e^(2πi jk / N) |k⟩  
+$$|j⟩ → (1/√N) Σₖ e^(2πi jk / N) |k⟩$$  
 - Implemented with **Hadamard gates** and **controlled phase rotations**.  
 - Requires only O(n²) gates for an n-qubit register, which is exponentially faster than classical FFT on the statevector.  
 
