@@ -101,9 +101,10 @@ plot_histogram(counts)
 1. **Half Adder Check:** Build and simulate the half adder. Verify sum/carry truth table matches the classical case.  
 2. **Full Adder Circuit:** Implement a 1-bit full adder with carry-in. Test all possible input combinations.  
 3. **2-Bit Ripple-Carry Adder:** Extend to 2 bits. Show measurement results for inputs (01 + 11), (10 + 11).  
+<!---
 4. **3-Bit Ripple-Carry Adder:** Build and test a 3-bit ripple-carry adder. Verify correctness by comparing classical and quantum results.  
 5. **Resource Counting:** Count the number of CNOT and Toffoli gates needed for a 2-bit and 3-bit ripple-carry adder. Comment on scalability.  
-
+--->
 ---
 
 ## 5. Concept Questions
