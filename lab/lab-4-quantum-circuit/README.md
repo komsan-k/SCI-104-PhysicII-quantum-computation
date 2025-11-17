@@ -92,13 +92,13 @@ qc2.draw('mpl')
 ---
 
 ## 4. Exercises
-
+<!---
 1. **Three-Qubit Circuit**: Build a GHZ circuit (|000⟩ → (|000⟩ + |111⟩)/√2).  
 2. **Random Circuit**: Generate a 3-qubit circuit with H, X, Z, and CX randomly applied. Explain results.  
 3. **Order Matters**: Show that HX ≠ XH by applying gates in different orders on |0⟩.  
 4. **Circuit Depth**: Compare depths of equivalent circuits using `qc.depth()`.  
 5. **Noise Simulation (Optional)**: Add noise models to observe decoherence.  
-
+--->
 ---
 
 ## 5. Concept Questions
