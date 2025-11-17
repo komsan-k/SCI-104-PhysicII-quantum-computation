@@ -95,6 +95,7 @@ qc3.draw('mpl')
 4. **Mapping:** Show what happens if you measure `qreg[0]` into `creg[1]` instead of `creg[0]`.  
 5. **Circuit vs Register Style:** Reproduce the same 3-qubit GHZ circuit using (a) explicit registers and (b) direct `QuantumCircuit(3,3)` style. Compare.  
 6. **Noise Model (Optional):** Add depolarizing noise to a 2-qubit register and compare histograms.
+   
 --->
 
 ---
