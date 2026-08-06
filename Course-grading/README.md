@@ -31,7 +31,7 @@ Each lab progressively builds from basic qubit operations to complex algorithms.
 Each lab contributes **4%** to the total course grade:
 - **2%** — Lab Report *(Colab Notebook Documentation and Analysis)*  
 - **2%** — Checkpoint *(In-lab execution and verification)*  
-<1- **4%** — Quiz *(Conceptual understanding and algorithm interpretation)*>
+<!- **4%** — Quiz *(Conceptual understanding and algorithm interpretation)*>
 
 👉 See full details in:  
 **[Quantum Lab Grading Criteria](./Quantum_Lab_Grading_Criteria_README.md)**
