@@ -13,7 +13,7 @@ The course combines **hands-on laboratory work using Qiskit in Google Colab** wi
 | **Coursera Coursework** | **40%** | Completion of two Coursera modules related to Qiskit-based quantum computation. |
 | **Qiskit quiz** | **20%** | Understanding to Qiakit . |
 
-**Total Course Grade = 60% (Labs) + 40% (Coursera) = 100%**
+**Total Course Grade = 40% (Labs) + 40% (Coursera) + 20% (Quiz) = 100%**
 
 ---
 
