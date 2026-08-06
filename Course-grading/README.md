@@ -31,7 +31,7 @@ Each lab progressively builds from basic qubit operations to complex algorithms.
 Each lab contributes **4%** to the total course grade:
 - **2%** — Lab Report *(Colab Notebook Documentation and Analysis)*  
 - **2%** — Checkpoint *(In-lab execution and verification)*  
-<!- **4%** — Quiz *(Conceptual understanding and algorithm interpretation)*>
+
 
 👉 See full details in:  
 **[Quantum Lab Grading Criteria](./Quantum_Lab_Grading_Criteria_README.md)**
@@ -64,7 +64,7 @@ To receive full credit (40%), students must:
 | **Quantum Computation Labs (8 Labs)** | **40%** | Applied circuit design and simulation using Google Colab and Qiskit. |
 | **Coursera Module 1: Exploring Quantum Computation with Qiskit** | **20%** | Conceptual and applied introduction to quantum computation using IBM Qiskit. |
 | **Coursera Module 2: The Complete Quantum Computing Course for Beginners** | **20%** | Comprehensive foundation in quantum principles and algorithms for new learners. |
-| **Qiskit Mini Project** | **20%** | Applied Qiskit. |
+| **Qiskit Qiskit** | **20%** | Conceptual understanding and algorithm interpretation* |
 
 ---
 
