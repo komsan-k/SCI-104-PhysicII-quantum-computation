@@ -9,8 +9,9 @@ The course combines **hands-on laboratory work using Qiskit in Google Colab** wi
 
 | Component | Weight | Description |
 |------------|---------|-------------|
-| **Quantum Computation Labs (6 Labs)** | **60%** | Practical experiments conducted in Google Colab using Qiskit and related frameworks. Each lab emphasizes circuit construction, algorithm simulation, and quantum theory interpretation. |
+| **Quantum Computation Labs (8 Labs)** | **40%** | Practical experiments conducted in Google Colab using Qiskit and related frameworks. Each lab emphasizes circuit construction, algorithm simulation, and quantum theory interpretation. |
 | **Coursera Coursework** | **40%** | Completion of two Coursera modules related to Qiskit-based quantum computation. |
+| **Qiskit quiz** | **20%** | Understanding to Qiakit . |
 
 **Total Course Grade = 60% (Labs) + 40% (Coursera) = 100%**
 
