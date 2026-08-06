@@ -118,7 +118,7 @@ foundations and hands-on labs.
     ```
 
 2.  Set up your IBM Quantum account at [IBM Quantum
-    Experience](https://quantum-computing.ibm.com/).\
+    Experience](https://quantum-computing.ibm.com/).
 
 3.  Run Jupyter Notebooks or Google Colab with the provided lab
     exercises.
@@ -128,7 +128,7 @@ foundations and hands-on labs.
 ## 📚 References
 
 -   Nielsen, M. A., & Chuang, I. L. *Quantum Computation and Quantum
-    Information*.\
--   Preskill, J. *Lecture Notes on Quantum Computation*.\ (https://www.preskill.caltech.edu/ph229/)
+    Information*.
+-   Preskill, J. *Lecture Notes on Quantum Computation*. (https://www.preskill.caltech.edu/ph229/)
 -   Qiskit Textbook: [Learn Quantum Computation Using
     Qiskit](https://qiskit.org/textbook/).
