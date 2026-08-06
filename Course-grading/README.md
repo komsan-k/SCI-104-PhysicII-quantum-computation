@@ -16,9 +16,9 @@ The course combines **hands-on laboratory work using Qiskit in Google Colab** wi
 
 ---
 
-## ⚙️ Quantum Computation Labs — 60%
+## ⚙️ Quantum Computation Labs — 40%
 
-The **six Quantum Computation Labs** are designed to bridge theory and practice, giving students direct experience with **quantum circuit design**, **simulation**, and **measurement analysis**.  
+The **eight Quantum Computation Labs** are designed to bridge theory and practice, giving students direct experience with **quantum circuit design**, **simulation**, and **measurement analysis**.  
 Each lab progressively builds from basic qubit operations to complex algorithms.
 
 ### 🔹 Core Learning Objectives
@@ -28,10 +28,10 @@ Each lab progressively builds from basic qubit operations to complex algorithms.
 - Present results using clear Markdown explanations, visual plots, and code documentation in Google Colab.
 
 ### 🧾 Lab Evaluation Breakdown
-Each lab contributes **10%** to the total course grade:
-- **3%** — Lab Report *(Colab Notebook Documentation and Analysis)*  
-- **3%** — Checkpoint *(In-lab execution and verification)*  
-- **4%** — Quiz *(Conceptual understanding and algorithm interpretation)*
+Each lab contributes **4%** to the total course grade:
+- **2%** — Lab Report *(Colab Notebook Documentation and Analysis)*  
+- **2%** — Checkpoint *(In-lab execution and verification)*  
+<1- **4%** — Quiz *(Conceptual understanding and algorithm interpretation)*>
 
 👉 See full details in:  
 **[Quantum Lab Grading Criteria](./Quantum_Lab_Grading_Criteria_README.md)**
@@ -64,7 +64,7 @@ To receive full credit (40%), students must:
 | **Quantum Computation Labs (8 Labs)** | **40%** | Applied circuit design and simulation using Google Colab and Qiskit. |
 | **Coursera Module 1: Exploring Quantum Computation with Qiskit** | **20%** | Conceptual and applied introduction to quantum computation using IBM Qiskit. |
 | **Coursera Module 2: The Complete Quantum Computing Course for Beginners** | **20%** | Comprehensive foundation in quantum principles and algorithms for new learners. |
-| **Qiskit Project** | **20%** | Applied Qiskit. |
+| **Qiskit Mini Project** | **20%** | Applied Qiskit. |
 
 ---
 
