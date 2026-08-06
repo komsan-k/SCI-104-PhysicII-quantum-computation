@@ -61,9 +61,10 @@ To receive full credit (40%), students must:
 
 | Component | Weight | Description |
 |------------|---------|-------------|
-| **Quantum Computation Labs (10 Labs)** | **60%** | Applied circuit design and simulation using Google Colab and Qiskit. |
+| **Quantum Computation Labs (8 Labs)** | **40%** | Applied circuit design and simulation using Google Colab and Qiskit. |
 | **Coursera Module 1: Exploring Quantum Computation with Qiskit** | **20%** | Conceptual and applied introduction to quantum computation using IBM Qiskit. |
 | **Coursera Module 2: The Complete Quantum Computing Course for Beginners** | **20%** | Comprehensive foundation in quantum principles and algorithms for new learners. |
+| **Qiskit Project** | **20%** | Applied Qiskit. |
 
 ---
 
