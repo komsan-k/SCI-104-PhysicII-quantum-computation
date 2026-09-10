@@ -1,4 +1,4 @@
-# Lab 3: Introduction to Quantum Registers (Google Colab Edition)
+# Lab 3: Basic Quantum Registers 
 
 ## 1. Objectives
 By the end of this lab, students will be able to:
