@@ -1,5 +1,4 @@
-# Lab 5: Introduction to Quantum Adders (Google Colab Edition)
-
+# Lab 5: Quantum Adders
 ## 1. Objectives
 By the end of this lab, students will be able to:
 
