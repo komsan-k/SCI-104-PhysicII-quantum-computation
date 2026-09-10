@@ -1,4 +1,4 @@
-# Lab 10: Quantum Error Correction (QEC) (Google Colab Edition)
+# Lab 10: Quantum Error Correction (QEC) 
 
 ## 1. Objectives
 By the end of this lab, students will be able to:
