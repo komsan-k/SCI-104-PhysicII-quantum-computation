@@ -1,4 +1,4 @@
-# Lab 6: Introduction to Quantum Fourier Transform (QFT) (Google Colab Edition)
+# Lab 6: Quantum Fourier Transform (QFT)
 
 ## 1. Objectives
 By the end of this lab, students will be able to:
