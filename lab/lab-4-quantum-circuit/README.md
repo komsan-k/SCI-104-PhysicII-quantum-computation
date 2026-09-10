@@ -1,4 +1,4 @@
-# Lab 4: Introduction to Quantum Circuits (Google Colab Edition)
+# Lab 4: Basic Quantum Circuits 
 
 ## 1. Objectives
 By the end of this lab, students will be able to:
