@@ -1,4 +1,4 @@
-# Lab 7: Introduction to Quantum Phase Estimation (QPE) (Google Colab Edition)
+# Lab 7: Quantum Phase Estimation (QPE) 
 
 ## 1. Objectives
 By the end of this lab, students will be able to:
