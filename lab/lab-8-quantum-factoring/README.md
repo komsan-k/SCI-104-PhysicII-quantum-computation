@@ -1,4 +1,4 @@
-# Lab 8: Shor’s Algorithm (Quantum Factoring) (Google Colab Edition)
+# Lab 8: Shor’s Algorithm (Quantum Factoring) 
 
 ## 1. Objectives
 By the end of this lab, students will be able to:
