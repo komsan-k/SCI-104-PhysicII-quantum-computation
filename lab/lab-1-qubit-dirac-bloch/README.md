@@ -1,4 +1,4 @@
-# Lab 1: Introduction to Qubit, Dirac Notation, and the Bloch Sphere (Google Colab Edition)
+# Lab 1: Qubits and Quantum States
 
 ## 1. Objectives
 By the end of this lab, students will be able to:
