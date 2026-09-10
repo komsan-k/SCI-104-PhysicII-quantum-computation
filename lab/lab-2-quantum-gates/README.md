@@ -1,4 +1,4 @@
-# Lab 2: Introduction to Quantum Gates (Google Colab Edition)
+# Lab 2: Simple Quantum Gates
 
 ## 1. Objectives
 By the end of this lab, students will be able to:
