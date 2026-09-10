@@ -1,5 +1,4 @@
-# Lab 9: Grover’s Algorithm (Quantum Search) (Google Colab Edition)
-
+# Lab 9: Grover’s Algorithm (Quantum Search) 
 ## 1. Objectives
 By the end of this lab, students will be able to:
 
