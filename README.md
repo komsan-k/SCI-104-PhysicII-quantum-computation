@@ -1,4 +1,4 @@
-# SCI-104-PhysicII-quantum-computation
+# Quantum Computation
 
 SCI-104 Physic II
 
